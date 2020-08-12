@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: vien.hongxuan@gmail.com
-    phone: (+84) 90 670 8477
+    # phone: (+84) 90 670 8477
     website: vienhx.me #do not add http://
     linkedin: vienhx
     github: vienhx
@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Professional Working
 
     interests:
       - item: Reading
@@ -44,12 +44,12 @@ career-profile:
     summary: |
 
 education:
-    - degree: MSc in Computer Science
+    - degree: M.Sc. in Computer Science
       university: VNUHCM - University of Science
       time: 2010 - 2013
       details: |
         
-    - degree: BSc in Software Engineering
+    - degree: B.Eng. in Software Engineering
       university: HCM University of Technology (HUTECH)
       time: 2004 - 2009
       details: |
